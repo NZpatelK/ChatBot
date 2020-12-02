@@ -1,4 +1,4 @@
-# AIzaSyAa410WJo4P7HFdXVEnfn8d7Fp0oJqaPgY
+
 import fbchat
 from fbchat import Client, log
 from fbchat.models import *
